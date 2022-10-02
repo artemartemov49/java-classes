@@ -1,4 +1,4 @@
-package com.artem.task3;
+package com.artem.task4;
 
 import java.util.Scanner;
 
