@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac5b0565-155c-4d11-87b2-f3998ca52aa3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/artem/chapter1/task1/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/artem/chapter1/task1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/artem/chapter1/task1/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/artem/chapter1/task1/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/artem/chapter1/task1/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="work_2" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,20 +48,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MultiplyRunner">
-    <configuration name="LoopRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artem.task1.LoopRunner" />
-      <module name="java-classes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.artem.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task3">
     <configuration name="MultiplyRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.artem.task4.MultiplyRunner" />
       <module name="java-classes" />
@@ -96,25 +88,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.chapter1.task1.Task2" />
       <module name="java-classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.artem.chapter1.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artem.chapter1.task1.Task3" />
       <module name="java-classes" />
-      <option name="filePath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.artem.chapter1.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.ReverseLoopRunner" />
         <item itemvalue="Application.NumberSumRunner" />
-        <item itemvalue="Application.MultiplyRunner" />
-        <item itemvalue="Application.LoopRunner" />
         <item itemvalue="Application.MultiplyRunner" />
       </list>
     </recent_temporary>
@@ -130,6 +135,8 @@
       <workItem from="1663698328983" duration="2378000" />
       <workItem from="1664205623797" duration="81000" />
       <workItem from="1664205708923" duration="349000" />
+      <workItem from="1664206077875" duration="247000" />
+      <workItem from="1666255698084" duration="5525000" />
     </task>
     <servers />
   </component>
