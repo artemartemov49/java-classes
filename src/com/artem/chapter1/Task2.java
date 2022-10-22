@@ -1,4 +1,4 @@
-package com.artem.chapter1.task1;
+package com.artem.chapter1;
 
 import java.util.HashSet;
 import java.util.Set;

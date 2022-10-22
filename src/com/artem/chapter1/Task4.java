@@ -1,4 +1,4 @@
-package com.artem.chapter1.task1;
+package com.artem.chapter1;
 
 public class Task4 {
 
@@ -7,6 +7,7 @@ public class Task4 {
     public static void main(String[] args) {
         printProductNumbers(INITIAL_ARRAY);
         arraySum(INITIAL_ARRAY);
+        compressArray(INITIAL_ARRAY);
     }
 
     private static void printProductNumbers(int[] array) {
@@ -48,5 +49,14 @@ public class Task4 {
         }
 
         System.out.println(sum);
+    }
+
+    private static void compressArray(int[] array) {
+
+        for (int i = 0; i < array.length; i++) {
+            if (Math.abs(array[i]) > 1) {
+                array[i] = 0;
+            }
+        }
     }
 }
